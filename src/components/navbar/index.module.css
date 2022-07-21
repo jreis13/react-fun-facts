@@ -1,0 +1,24 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  background-color: #21222A;
+  padding: 30px 25px;
+  height: 90px;
+}
+
+.logo {
+  height: 30px;
+  margin-right: 7px;
+}
+
+.title {
+  color: #61dafb;
+  margin-right: auto;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.project {
+  color: #fff;
+  font-weight: 600;
+}
